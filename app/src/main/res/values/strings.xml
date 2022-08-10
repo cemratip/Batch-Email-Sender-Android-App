@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Email Batch Sender</string>
+    <string name="send">Send</string>
+    <string name="subject">Subject</string>
+    <string name="gmail_account">Gmail Account</string>
+    <string name="email_list">Email List</string>
+    <string name="send_an_email_batch">Send an email batch</string>
+    <string name="message">Message</string>
+    <string name="email_lists">Email Lists</string>
+    <string name="done">Done</string>
+</resources>
